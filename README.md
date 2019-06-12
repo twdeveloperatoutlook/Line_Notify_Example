@@ -1,5 +1,7 @@
 # Line Notify Example
 
+[![Build status](https://dev.azure.com/mytestaz400/test008/_apis/build/status/test008-ASP.NET-CI)](https://dev.azure.com/mytestaz400/test008/_build/latest?definitionId=11)
+
 <br/>這個範例展示如何使用 Line Notify ，透過OAuth取得可發送Line訊息給用戶的Token
 <br/>並透過該Token免費發送Line Message
 <br/>Line Notify 概念請參考 http://studyhost.blogspot.tw/2016/12/linebot6-botline-notify.html
